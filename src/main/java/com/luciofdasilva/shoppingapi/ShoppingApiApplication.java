@@ -1,4 +1,4 @@
-package com.luciofdasilva.shoppingapi.shoppingapi;
+package com.luciofdasilva.shoppingapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
